@@ -1,0 +1,18 @@
+{
+  "name": "kitty-avatar",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlc/kitty-avatar.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xlc/kitty-avatar/issues"
+  },
+  "homepage": "https://github.com/xlc/kitty-avatar#readme"
+}
